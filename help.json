@@ -1,0 +1,54 @@
+{
+    "currencies": {
+        "type": "folder",
+        "content": {
+            "basic.json": {
+                "type": "application/json",
+                "format": {
+                    "3 DIGIT CURRENCY CODE": {
+                        "name": {
+                            "type": "string",
+                            "description": "FULL NAME OF CURRENCY"
+                        },
+                        "symbol": {
+                            "type": "string",
+                            "description": "SYMBOL USED TO REPRESENT CURRENCY"
+                        }
+                    }
+                }
+            },
+
+            "detailed.json": {
+                "type": "application/json",
+                "format": {
+                    "3 DIGIT CURRENCY CODE": {
+                        "name": {
+                            "type": "string",
+                            "description": "FULL NAME OF CURRENCY"
+                        },
+                        "symbol": {
+                            "type": "string",
+                            "description": "SYMBOL USED TO REPRESENT CURRENCY"
+                        },
+                        "numeric": {
+                            "type": "integer",
+                            "description": "NUMERIC CODE OF CURRENCY"
+                        },
+                        "unicode": {
+                            "type": "string",
+                            "description": "UNICODE OF SYMBOL"
+                        },
+                        "decimal": {
+                            "type": "integer",
+                            "description": "DECIMAL VALUE USED FOR SYMBOL i.e. USED IN HTML, ALT CODE"
+                        },
+                        "hexcode": {
+                            "type": "string",
+                            "description": "HEXADECIMAL VALUE USED FOR SYMBOL i.e. USED IN CSS CODE, UNICODE"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
