@@ -1,0 +1,28 @@
+{
+    "USD": {
+        "name": "US Dollar",
+        "symbol": "$",
+        "numeric": 840,
+        "unicode": "U+0024",
+        "decimal": 36,
+        "hexcode": "24"
+    },
+
+    "EUR": {
+        "name": "Euro",
+        "symbol": "€",
+        "numeric": 0,
+        "unicode": "U+20ac",
+        "decimal": 8364,
+        "hexcode": "20ac"
+    },
+
+    "INR": {
+        "name": "Indian Rupee",
+        "symbol": "₹",
+        "numeric": 356,
+        "unicode": "U+20b9",
+        "decimal": 8377,
+        "hexcode": "20b9"
+    }
+}

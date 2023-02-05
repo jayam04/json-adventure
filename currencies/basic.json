@@ -1,0 +1,16 @@
+{
+    "USD": {
+        "name": "US Dollar",
+        "symbol": "$"
+    },
+
+    "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+    },
+
+    "INR": {
+        "name": "Indian Rupee",
+        "symbol": "₹"
+    }
+}
