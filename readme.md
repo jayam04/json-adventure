@@ -7,4 +7,17 @@ to get help visit `https://json-adventure.vercel.app/help.json`
 
 ## todo
 
-- [ ] better name and description for repository
+### features
+
+- [ ] better name and description for repository  
+- [ ] support for js, python object files  
+
+### data
+
+- [ ] add subunits in currencies/detailed  
+- [ ] currencies/crypto  
+  - [ ] add official website  
+  - [ ] explorer website  
+  - [ ] official coin token address  
+  - [ ] decimals  
+- [ ] add all currencies  
