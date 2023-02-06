@@ -2,8 +2,8 @@
 
 ## usage
 
-you can get json files at `https://json-adventure.vercel.app/folder/file.json`  
-to get help visit `https://json-adventure.vercel.app/help.json`  
+you can get json files at `https://json-adventure.vercel.app/api/{FOLDER}/{FILENAME.json}`  
+to get help visit `https://json-adventure.vercel.app/api/help.json`  
 
 ## todo
 
