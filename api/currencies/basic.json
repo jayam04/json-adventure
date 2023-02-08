@@ -12,5 +12,20 @@
     "INR": {
         "name": "Indian Rupee",
         "symbol": "₹"
+    },
+
+    "KYD": {
+        "name": "Cayman Islands Dollar",
+        "symbol": "CI$"
+    },
+
+    "CAD": {
+        "name": "Canadian Dollar",
+        "symbol": "CA$"
+    },
+
+    "AUD": {
+        "name": "Australian Dollar",
+        "symbol": "AU$"
     }
 }
