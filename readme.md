@@ -21,3 +21,6 @@ to get help visit `https://json-adventure.vercel.app/api/help.json`
   - [ ] official coin token address  
   - [ ] decimals  
 - [ ] add all currencies  
+
+### fixes
+- [ ] EUR numeric value isn't 0
