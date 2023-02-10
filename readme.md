@@ -23,4 +23,5 @@ to get help visit `https://json-adventure.vercel.app/api/help.json`
 - [ ] add all currencies  
 
 ### fixes
-- [ ] EUR numeric value isn't 0
+
+- [x] EUR numeric value isn't 0
